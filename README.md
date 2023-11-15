@@ -6,7 +6,7 @@ This business initiative within the context of an online learning platform lever
 ## Business Objective
 1.   **Understanding Acquisition Channel Impact**
 <br>Evaluate the extent to which the online learning platform’s acquisition channels influence student learning outcomes.
-3.   **Geographical Discovery**
+2.   **Geographical Discovery**
 <br>Identify geographical locations where a majority of students discover the online learning platform, with a particular focus on social media platforms like YouTube or Facebook.
 
 ## Project Highlights
