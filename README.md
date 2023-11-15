@@ -21,7 +21,6 @@ The project employs a robust methodology, including data preprocessing, explorat
 ---
 
 ## Data Dictionary
-> **Properties**
 
 |variable                       |class     |description |
 |:------------------------------|:---------|:-----------|
