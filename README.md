@@ -4,8 +4,8 @@
 This business initiative leverages authentic customer data to execute market segmentation, a critical element for enterprises seeking insights into customer behavior to enhance marketing efficiency. The project encompasses comprehensive data preprocessing, exploratory data analysis (EDA), feature engineering, and the application of clustering algorithms—specifically, the widely recognized k-means and hierarchical clustering techniques.
 
 ## Business Objective
-1.   **Understanding Acquisition Channel Impact**<br>
-Evaluate the extent to which the platform’s acquisition channels influence student learning outcomes.
+1.   **Understanding Acquisition Channel Impact**
+<br>Evaluate the extent to which the platform’s acquisition channels influence student learning outcomes.
 3.   **Geographical Discovery**
 <br>Identify geographical locations where a majority of students discover the platform, with a particular focus on social media platforms like YouTube or Facebook.
 
