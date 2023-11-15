@@ -5,15 +5,15 @@ This business initiative leverages authentic customer data to execute market seg
 
 ## Business Objective
 1.   **Understanding Acquisition Channel Impact**
-   Evaluate the extent to which the platform’s acquisition channels influence student learning outcomes.
+<br>Evaluate the extent to which the platform’s acquisition channels influence student learning outcomes.
 3.   **Geographical Discovery**
-    *   Identify geographical locations where a majority of students discover the platform, with a particular focus on social media platforms like YouTube or Facebook.
+<br>Identify geographical locations where a majority of students discover the platform, with a particular focus on social media platforms like YouTube or Facebook.
 
 ## Project Highlights
 1.   **Diverse Customer Behavior Exploration**
-    *   The project dives deep into the spectrum of customer behavior, unraveling distinct segments that can be strategically targeted with personalized marketing strategies.
+<br>The project dives deep into the spectrum of customer behavior, unraveling distinct segments that can be strategically targeted with personalized marketing strategies.
 2.   **Optimizing Marketing Approaches**
-    *   The identified customer segments serve as a foundation for tailoring marketing approaches, optimizing engagement, and ultimately improving business outcomes.
+<br>The identified customer segments serve as a foundation for tailoring marketing approaches, optimizing engagement, and ultimately improving business outcomes.
 
 ## Methodology
 The project employs a robust methodology, including data preprocessing, exploratory data analysis, and advanced clustering techniques. The application of k-means and hierarchical clustering ensures a comprehensive understanding of customer segments.
