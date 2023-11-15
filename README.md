@@ -17,6 +17,7 @@ This business initiative within the context of an online learning platform lever
 
 ## Methodology
 The project employs a robust methodology, including data preprocessing, exploratory data analysis, and advanced clustering techniques. The application of k-means and hierarchical clustering ensures a comprehensive understanding of customer segments.
+
 ---
 
 ## Data Dictionary
