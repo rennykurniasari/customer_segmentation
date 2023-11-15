@@ -6,19 +6,43 @@ This business initiative within the context of an online learning platform lever
 ## Business Objective
 1.   **Understanding Acquisition Channel Impact**
 <br>Evaluate the extent to which the online learning platform’s acquisition channels influence student learning outcomes.
-2.   **Geographical Discovery**
+
+2.  **Geographical Discovery**
 <br>Identify geographical locations where a majority of students discover the online learning platform, with a particular focus on social media platforms like YouTube or Facebook.
+
+## Business Impact
+The primary objective is to delve into the diverse landscape of customer behavior and identify unique segments. These insights empower businesses to tailor personalized marketing strategies, maximizing the impact of their outreach efforts and ultimately driving positive business outcomes.
+
+---
 
 ## Project Highlights
 1.   **Diverse Customer Behavior Exploration**
 <br>The project delves into the spectrum of customer behavior within the online learning context, unraveling distinct segments that can be strategically targeted with personalized marketing strategies.
+
 2.   **Optimizing Marketing Approaches**
 <br>The identified customer segments serve as a foundation for tailoring marketing approaches, optimizing engagement, and ultimately improving business outcomes for the online learning platform.
 
 ## Methodology
 The project employs a robust methodology, including data preprocessing, exploratory data analysis, and advanced clustering techniques. The application of k-means and hierarchical clustering ensures a comprehensive understanding of customer segments.
 
----
+## Key Components
+1.   **Data Preprocessing**
+<br>The project kicks off with meticulous data preprocessing, ensuring the quality and relevance of the customer data for subsequent analysis.
+
+2.   **Exploratory Data Analysis (EDA)**
+    *   **Correlation Estimate:** Analyzing the correlation between variables to identify relationships and dependencies.
+    *   **Visualize Raw Data:** Utilizing visualizations to explore raw data, identifying trends and potential insights.
+    *   **Create Dummy Variables:** Transforming categorical variables into numerical representations for modeling.
+
+3.   **Feature Engineering**
+<br>This step involves crafting meaningful features from the raw data, enhancing the model's ability to discern and interpret customer characteristics.
+
+4.   **Model Implementation**
+    *   **Standardization:** Standardizing variables to ensure consistent scales for effective model training.
+    *   **K-means Clustering:** Applying the K-means clustering algorithm to categorize customers into distinct segments based on shared characteristics.
+
+5.   **Model Interpretation and Results**
+<br>The project culminates in the interpretation of clustering results, providing actionable insights for targeted marketing strategies.
 
 ## Data Dictionary
 
