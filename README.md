@@ -75,6 +75,6 @@ Now that we have our customer segments, we proceed to the vital step of discussi
     *   **Recommendation:** Focus on Google, YouTube, and LinkedIn as acquisition channels for these regions. Increase spending as the CLV of customers from these clusters is the highest across segments.
 
 *   Remaining Regions and Acquisition Channels
-    *   **Recommendation:**
+    *   **Rest of the World:**
         *   **Successful Channel:** LinkedIn, followed by Facebook.
         *   **Recommendation:** LinkedIn is an effective platform for attracting customers from these regions due to excellent organic reach.
