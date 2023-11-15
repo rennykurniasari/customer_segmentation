@@ -1,23 +1,22 @@
 # Customer Segmentation for Marketing Strategies using K-Means and Hierarchical Clustering
 
 ## Business Overview
-This business initiative leverages authentic customer data to execute market segmentation, a critical element for enterprises seeking insights into customer behavior to enhance marketing efficiency. The project encompasses comprehensive data preprocessing, exploratory data analysis (EDA), feature engineering, and the application of clustering algorithms—specifically, the widely recognized k-means and hierarchical clustering techniques.
+This business initiative within the context of an online learning platform leverages authentic customer data to execute market segmentation, a critical element for enterprises operating in the online learning sector seeking insights into customer behavior to enhance marketing efficiency. The project encompasses comprehensive data preprocessing, exploratory data analysis (EDA), feature engineering, and the application of clustering algorithms—specifically, the widely recognized k-means and hierarchical clustering techniques.
 
 ## Business Objective
 1.   **Understanding Acquisition Channel Impact**
-<br>Evaluate the extent to which the platform’s acquisition channels influence student learning outcomes.
+<br>Evaluate the extent to which the online learning platform’s acquisition channels influence student learning outcomes.
 3.   **Geographical Discovery**
-<br>Identify geographical locations where a majority of students discover the platform, with a particular focus on social media platforms like YouTube or Facebook.
+<br>Identify geographical locations where a majority of students discover the online learning platform, with a particular focus on social media platforms like YouTube or Facebook.
 
 ## Project Highlights
 1.   **Diverse Customer Behavior Exploration**
-<br>The project dives deep into the spectrum of customer behavior, unraveling distinct segments that can be strategically targeted with personalized marketing strategies.
+<br>The project delves into the spectrum of customer behavior within the online learning context, unraveling distinct segments that can be strategically targeted with personalized marketing strategies.
 2.   **Optimizing Marketing Approaches**
-<br>The identified customer segments serve as a foundation for tailoring marketing approaches, optimizing engagement, and ultimately improving business outcomes.
+<br>The identified customer segments serve as a foundation for tailoring marketing approaches, optimizing engagement, and ultimately improving business outcomes for the online learning platform.
 
 ## Methodology
 The project employs a robust methodology, including data preprocessing, exploratory data analysis, and advanced clustering techniques. The application of k-means and hierarchical clustering ensures a comprehensive understanding of customer segments.
-
 ---
 
 ## Data Dictionary
