@@ -5,8 +5,8 @@ This business initiative leverages authentic customer data to execute market seg
 
 ## Business Objective
 1.   **Understanding Acquisition Channel Impact**
-    *   Evaluate the extent to which the platform’s acquisition channels influence student learning outcomes.
-2.   **Geographical Discovery**
+Evaluate the extent to which the platform’s acquisition channels influence student learning outcomes.
+3.   **Geographical Discovery**
     *   Identify geographical locations where a majority of students discover the platform, with a particular focus on social media platforms like YouTube or Facebook.
 
 ## Project Highlights
